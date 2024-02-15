@@ -7,9 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
           <h3> my perfume page</h3>
+        Team jade rocks.
         </p>
+        <h2>this will be challenging</h2>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -17,6 +18,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          <h2>this Is MERCY </h2>
         </a>
       </header>
     </div>
@@ -24,3 +26,5 @@ function App() {
 }
 
 export default App;
+
+
